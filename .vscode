@@ -1,0 +1,44 @@
+{
+  "window.zoomLevel": 0,
+  "workbench.statusBar.visible": true,
+  "editor.wordWrap": "on",
+  "elm.formatOnSave": true,
+  "editor.fontSize": 13,
+  "workbench.activityBar.visible": true,
+  "workbench.colorTheme": "Panda Syntax",
+  "files.trimTrailingWhitespace": true,
+  "javascript.validate.enable": false,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 120,
+  "editor.tabSize": 2,
+  "editor.tabCompletion": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "prettier.jsxBracketSameLine": false,
+  "editor.lineHeight": 24,
+  "editor.minimap.enabled": false,
+  "eslint.run": "onSave",
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.historyExplorer.enabled": true,
+  "editor.fontFamily": "'Operator Mono Medium', 'monospace', monospace, 'Droid Sans Fallback'",
+  "vsicons.dontShowNewVersionMessage": true,
+  "breadcrumbs.enabled": true,
+  "materialTheme.fixIconsRunning": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "window.titleBarStyle": "custom",
+  "gitlens.gitExplorer.files.layout": "list",
+  "git.autofetch": true,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "workbench.colorCustomizations": {
+    "editorError.foreground": "#FF2C6D", // squiggly line
+    "editorError.border": "#292a2b" // additional border under squiggly line
+  },
+  "gitlens.views.repositories.files.layout": "list",
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true
+}
